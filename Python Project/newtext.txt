@@ -1,0 +1,105 @@
+Dr Martisius and her team used five bone tools discovered from Neanderthals' sites in southwest France for this research. Four of these bone tools were found in a site called Abri Peyrony and the other one was from Pech-de-l’Azé I. These tools were just a few centimetres in size and were about 50 thousand years old, Dr Martisius told Wikinews. Microscopy analysis of these bone tools called lissoirs (smoothers) suggested Neanderthals used these tools for working animal skin to leathers.
+The study stated the fauna of the sites were primarily medium-sized ungulates such as reindeer, in one layer nearly 90%. Despite the overabundance of medium-sized ungulates, Neanderthals used ribs of large bovids for making lissoirs. Dr Martisius told Wikinews this was likely due to the physical characteristics of the bovid ribs, which were "thicker" and "stronger" as compared to the "thin and flimsy ribs" of reindeers. In order to check the origins of the bone tools, the researchers used a technology called non-destructive Zooarchæology by Mass Spectrometry (ZooMS).
+After the trypsin has broken collagen fibres into peptides, it is analysed using a technology called Matrix-assisted laser desorption/ionization (MALDI) Time-of-Flight mass spectrometer (ToF MS). The assisting matrix is a coloured compound. The acidic peptide is combined with the matrix, vapourised, and peptides are released. Some of them are positively-charged particles which travel across a vacuum tube in an electric field. Depending on the weight of the peptides, these molecules reach the end of the vacuum tube at different instances of time, forming a spectrum. These graphs are like unique fingerprints of a species: they are different for different species of animals. Looking at the database of such graphs, taxonomic identifications of the collagen proteins came be made.
+
+File:Interview with Naomi Martisius about strategic bone tool raw material selection by Neandertals.webm
+Watch the entire interview with Dr Naomi Martisius.
+All four bone tools from Abri Peyrony gave positive results and showed that the bones were made from large bovids, even though reindeer were more abundant during that time. One of the advantages of using bovid ribs over reindeer's thin ribs was the bovid ribs would be more resistant to breaking during flexion, Dr Martisius said.
+
+Dr Martisius said such non-destructive ZooMS analysis was previously conducted, but for tools no older than a few centuries. She said such an analysis had never been previously conducted for artefacts so ancient.
+
+Wikinews caught up with Dr Martisius to discuss this research in-depth.
+Okay. Well, I guess that goes back all the way to my childhood; it's sort of a lifelong thing for me. My father was very interested in history. So I think that sort of inspired me to study ancient humans, I guess. But specifically archæology: I really had no idea what archæology is. And I think that the general public also doesn't really have an idea of what archæology is. And so, it wasn't until I got into school, started studying it, that I figure[d] out what archæology was. You know, it's so much more than history, or studying artefacts to interpret history, right? History is more so, about what is written down, what the prominent people in society wrote down, right? And archæology is about figuring out what normal everyday people did. So, I think it's — I think it's really cool what we can learn doing archæology.
+So. The initial purpose, really, was just to find out what animals the bone — I was studying bone tools for my dissertation, and, there's all sorts of different things one can learn, studying bone tools. But, to specifically figure out what animals these bones came from would be a little more difficult studying bone tools because bone tools are transformed, either through manufacturing or through use, or both depending on which bone tools they are. But these were small little fragments, really really hard to identify based on morphological characteristics alone. So we wanted to apply this method ZooMS to look at the — well, to study the collagen in the bone, to then assess what animals these bones came from.
+So, these five bone tools are all pretty similar. They all looked very similar, they had a similar size, similar shape; they all came from some sort of animal rib, we can tell that by doing a morphological analysis — but we wanted to use Zooarchæology by Mass Spectrometry to try to assess what animal species the bones came from. I mentioned the one, from this other site Pech-de-l’Azé: we didn't get any results from that one artefact; but then the four from Abri Peyrony, they all came back with positive results, all actually having the same ID, either coming from bison or aurochs; so, some sort of large bovid.
+
+
+The layers from where bone tools were obtained were dominated by the skeletal remains of reindeers. (Image: Are G Nilsen)
+And then, there's so much more involved in the study too; those are the main results. But then we compared the results from the ZooMS analysis to the zooarchæoological analysis from all of the faunal remains at the site. And what was really cool was that in one of the archæoological layers, where three of these bone tools came from, the layer was dominated by reindeer, having ninety per cent reindeer remains in the site.
+
+
+The fauna distribution of identified specimen at the Abri Peyrony site; as mentioned in the research paper.
+
+(Image: acagastya)
+Just thinking about that — we did a whole statistical analysis too, but — just thinking about that: 90 per cent reindeer, and then three of these bone tools come from this large bovid, really really seems like Neandertals specifically chose to use the large bovid's ribs as their tool of choice; and then like I say we also did a statistical analysis that supported that as well, that Neandertals were selecting these large bovid ribs.
+
+
+Naomi Martisius with a bone tool. (Image: Naomi Martisius)
+Wikinews waves Left.pngWNWikinews waves Right.png How did you get involved in this study?
+
+Wikinews waves Left.pngNaomi MartisiusWikinews waves Right.png So, that actually started back quite a while ago now, for me. It was before I even got into graduate school. It was back when I was an undergraduate student. I got my graduate degree as well as my undergraduate degree at UC Davis, so that's where I've been for a while: University of California Davis. And as an undergrad I took a zooarchæology course from Teresa Steele, who would then turn out to be my dissertation advisor, and so I was doing an internship with her. She was studying the faunal remains from this site Abri Peyrony. And she had me doing really really tedious work: just counting and weighing teeny-tiny little pieces of bone that were like two centimetres or less [1 cm = about 0.39 inch] in size. And then when I was doing that work I actually found one of these bone tools. And so then, one thing led to the next: I get to grad school, then I get to study these bone tools, and, well, now here we are. But, that was like, was it ten? I guess that was nine years ago when I first started working with Dr Teresa Steele.
+
+
+Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany, where a part of the research was conducted. (Image: Usingmodel)
+Wikinews waves Left.pngWNWikinews waves Right.png How many institutes were involved in this research?
+
+Wikinews waves Left.pngNaomi MartisiusWikinews waves Right.png So, on the paper, I think it lists seven different institutes. But two of the institutions were the main institutions I would say. So University of California Davis, where I got my dissertation, where my advisor also is a professor. But then, the Max Planck Institute for Evolutionary Anthropology is where the — for the most part — where the ZooMS analysis was conducted; and then several researchers are also affiliated with the Max Planck Institute. And then there are some other institutions that some of the other researchers are affiliated with. But, I would say, the majority of work either happened at UC Davis or at the Max Planck Institute.
+
+
+Naomi Martisius (centre) excavating at the site of Abri Peyrony in the southwest France. (Image: Naomi Martisius)
+Wikinews waves Left.pngWNWikinews waves Right.png What activities did this study involve?
+
+Wikinews waves Left.pngNaomi MartisiusWikinews waves Right.png What activities. So, the main activities I would say would be the ZooMS analysis; the zooarchæological analysis, or the study of the fauna; and then the statistical analyses. But in addition to those, I mean there's so many different things that are involved in a study like this, things that happened even before we started doing the study: just having to excavate the site, and gather the artefacts, and wash them, and various things like that. But then also, you know, writing, and brainstorming, and emailing colleagues, and data organisation; there's all sorts of different things that [go] on.
+
+Wikinews waves Left.pngWNWikinews waves Right.png What was the timeline of this study?
+
+Wikinews waves Left.pngNaomi MartisiusWikinews waves Right.png Yeah. It's even hard for me to remember right now actually [laughs]. But I think when we first decided to do a study like this, it would have been back in 2017. And then from there, I think some of the first results were obtained at the end of 2017. — When I say results, I mean the first ZooMS results were obtained at the end of 2017. And that's when I started comparing the ZooMS results to the rest of the fauna at the site: which species of fauna [were] found at the site. Not all of the bone tools had ZooMS results right away. So that, trying to get more ZooMS results took several tries, several more months, and then I think by the end of 2018, we had a solid draft about ready to submit for publication. But then; well, this is getting into a whole lot of other things. But anyway, we had to then collect more data. We decided to generate more ZooMS data on just the fauna from the site, to compare the results: non-destructive results from the fauna, to the morphological identifications to see if those were corroborated. And so that was mostly done in 2019. And then at the end of 2019, we had... pretty much our final draft — or, near-final draft — of the paper [ready] to go before it was submitted for publication. So anyway, several years.
+
+Portrait of Teresa E. Steele.
+Portrait of Teresa E. Steele. (Image: UC Davis)
+Portrait of Shannon McPherron.
+Portrait of Shannon McPherron. (Image: Max Planck Institute for Evolutionary Anthropology)
+Portrait of Marie Soressi.
+Portrait of Marie Soressi. (Image: Universiteit Leiden)
+Naomi Martisius's dissertation advisors.
+Wikinews waves Left.pngWNWikinews waves Right.png What were the roles of other people involved in the study?
+
+Wikinews waves Left.pngNaomi MartisiusWikinews waves Right.png So: there were, um, three researchers on this study. The last three listed on the paper — Teresa Steele, Shannon McPherron, and Marie Soressi — they're all my dissertation advisors. I already mentioned Teresa Steele as my main dissertation adviser but the two other, also, [were] external advisors for me. And they helped a lot in constructing the design of the research. So that was a big role that they played there.
+
+Frido Welker: I think it says right at the top of the paper that he contributed equally to this research as I did. So Frido is the ZooMS expert on this paper: so I'm not. [...] I'm the bone tool expert, and Frido Walker is the ZooMS expert. So he did the initial ZooMS analyses. And then he also got one of his grad students involved — Virginie Sinet-Mathiot — and she did some subsequent ZooMS analyses. And then they also had someone named Arndt Wilcke, I don't know if I'm pronouncing that right, he also helped with some of the ZooMS analyses. And then, Tamara; and I always say her last name wrong; Dogandžić, I think. She was one of the archæoologists at Abri Peyrony: so she helped with context — site context — where these bone tools came from, in the site. And then, William Rendu worked at the Pech-de-l’Azé I site. So he helped with context there, and the fauna there. And then, did I miss anyone? Oh! Mark Grote! He was a very important person on this paper. He was the statistician. And so I worked closely with him doing the statistical analysis. I think I got everyone.
+
+Portrait of Frido Welker
+Portrait of Frido Welker. (Image: Frido Welker.jpg)
+Portrait of Virginie Sinet-Mathiot.
+Portrait of Virginie Sinet-Mathiot. (Image: Max Planck Institute for Evolutionary Anthropology)
+Portrait of Arndt Wilcke.
+Portrait of Arndt Wilcke. (Image: Fraunhofer Institute for Cell Therapy and Immunology)
+Portrait of Tamara Dogandžić.
+Portrait of Tamara Dogandžić. (Image: University of Pennsylvania)
+Portrait of Mark Grote.
+Portrait of Mark Grote. (Image: UC Davis)
+Other researchers on this study.
+Wikinews waves Left.pngWNWikinews waves Right.png Which activity took the most time and attention?
+
+Wikinews waves Left.pngNaomi MartisiusWikinews waves Right.png Which activity took the most time? And attention. Um. I mean this might not be the answer you were looking for, but probably just coordinating everyone's schedules. [laughs] And getting everyone on the same track. Yeah. I mean, actually when you go and do something: one thing doesn't necessarily take all that long. But then, it builds up to taking a lot of time altogether.
+
+Wikinews waves Left.pngWNWikinews waves Right.png What was the most difficult part of the study?
+
+Wikinews waves Left.pngNaomi MartisiusWikinews waves Right.png The most. Difficult. Part. Um. [pause] Well, I think it would probably have to do with validating our results. So since we conducted a non-destructive study, then that brings in the big issue: how do we know that our results are actually what we say they are. Since it's non-destructive, were we even testing something that came from the bone. So really really conducting a lot of separate analyses to make sure samples weren't contaminated and making sure that our results were actually coming from the bones: I think that was probably the most difficult part.
+
+Wikinews waves Left.pngWNWikinews waves Right.png How long did it take to conduct the research?
+
+Wikinews waves Left.pngNaomi MartisiusWikinews waves Right.png Well, like I said, we started back in 2017. So, with all the various aspects put together, it's probably two and a half years. But then, like I said in a previous question, there's a lot of things that happened even before we decided to do this study. So I don't know; it depends [laughs] exactly what you're asking.
+
+
+Cloven hooves of a deer. (Image: Foto von Joachim Bäcker)
+Wikinews waves Left.pngWNWikinews waves Right.png Were you anticipating this outcome?
+
+Wikinews waves Left.pngNaomi MartisiusWikinews waves Right.png Um. Yeah, that's a good question. Because — So these bone tools were found before I was even involved in this study, or, some of the bones were, right? I told you that I found one — actually found two — myself. But some of these other ones were found before I was even involved. And I think that the general consensus of the researchers at that time was that these probably came from medium-sized ungulates. Ungulates would be hooved animals. So like a deer. And that really had to do with the size of these bone tools: they were pretty small and worn down. But, once I started studying; and I'd looked at a lot of these similar types of bone tools from other contexts — not that were made and used by Neandertals, but that were made and used by people like you and me in more recent time periods. And after looking at those, I had an inkling that they were actually larger bovids — some sort of large bovids — but I couldn't prove it. Just, that's what I figured at that point. And so, it was just exciting to see that I predicted it correctly, even though I didn't say it anywhere in publication or anything but just in my mind — that's what I thought it was.
+
+
+Membrane box used for curating Abri Peyrony lissoir, AP-7839, for more than five years. (Image: Naomi Martisius)
+Wikinews waves Left.pngWNWikinews waves Right.png What was the most fascinating aspect of this study?
+
+Wikinews waves Left.pngNaomi MartisiusWikinews waves Right.png So. For me it is, like, truly fascinating that we can test plastic that once touched a bone. And so there is this transfer of collagen from the bone to the plastic: and so we can get this result — get the collagen off of the plastic — so that's just like — when I first even heard about the idea, considered doing it, it just seemed fantastical to me. So, that was really cool.
+
+Wikinews waves Left.pngWNWikinews waves Right.png What were the challenges that the team faced during the research?
+
+Wikinews waves Left.pngNaomi MartisiusWikinews waves Right.png Actually I think I've mentioned this in one of those previous questions, but: I think the main challenge had to do with validating our results. And just proving that our results are what we say they are.
+
+
+Neanderthals used retouchers like these to modify their stone tools.
+Image: Didier Descouens.
+Wikinews waves Left.pngWNWikinews waves Right.png How frequently did the Neanderthals used bones to manufacture tools?
+
+Wikinews waves Left.pngNaomi MartisiusWikinews waves Right.png So, in general, when Neandertals were living in Europe, and in the Near East, they didn't use very many bone tools; or at least they don't preserve well, or if they were using bone tools, the evidence of it is pretty hard to come by, so it's kind of hard to say if they were using bone tools. So the most common type of bone tools that they used were these bone fragments that they then used to sharpen the edge of a stone tool. We call those retouchers. So I would say they used those fairly frequently. Because they were using stone tools a lot. We find lots and lots of stone tools in the archæoological record. And so, they need to sharpen their stone tools somehow, so often they did use bone to sharpen them. So that type of bone tool would be considered an opportunistic bone tool: you just pick up a piece of bone and use it. But, the type of bone tool that was in this study — I don't even think I've said the name yet — lissoirs, which means "smoother". Those were extremely uncommon; and so far they've only been found at a handful of sites. And I think there are some other bone tools that Neandertals used in later time periods, so the latest Neandertals before they go extinct. But I would say for the most part they don't seem to be using, or they didn't seem to be using bone tools very frequently.
